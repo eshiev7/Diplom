@@ -1,0 +1,3 @@
+C:\Users\mrae7\Desktop\Прога C++\GameTheory\GameTheory\x64\Debug\GameTheory.MyForm.resources
+C:\Users\mrae7\Desktop\Прога C++\GameTheory\GameTheory\x64\Debug\GameTheory.vcxproj.GenerateResource.cache
+C:\Users\mrae7\Desktop\Прога C++\GameTheory\GameTheory\x64\Debug\GameTheory.vcxprojAssemblyReference.cache
