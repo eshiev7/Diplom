@@ -1,4 +1,0 @@
-﻿  MyForm.cpp
-C:\Users\mrae7\Desktop\Прога C++\GameTheory\GameTheory\MyForm.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  GameTheory.vcxproj -> C:\Users\mrae7\Desktop\Прога C++\GameTheory\x64\Debug\GameTheory.exe
